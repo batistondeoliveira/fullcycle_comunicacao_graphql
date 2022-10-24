@@ -1,1 +1,5 @@
 site oficial = https://gqlgen.com/getting-started/
+Excluir os arquivos:
+  - generated/
+  - model/
+  - schema.resolvers.go
