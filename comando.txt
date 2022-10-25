@@ -3,3 +3,6 @@ Excluir os arquivos:
   - generated/
   - model/
   - schema.resolvers.go
+
+go run github.com/99designs/gqlgen init
+go run github.com/99designs/gqlgen generate
