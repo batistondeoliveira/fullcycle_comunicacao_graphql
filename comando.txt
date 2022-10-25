@@ -6,3 +6,5 @@ Excluir os arquivos:
 
 go run github.com/99designs/gqlgen init
 go run github.com/99designs/gqlgen generate
+
+Dataloaders, problema de n+1
